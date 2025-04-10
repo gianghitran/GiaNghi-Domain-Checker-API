@@ -1,7 +1,7 @@
 # 🌐 Gia Nghi Domain Checker
 
-> 🚀 *A small assignment for the Basic Network Programming course (NT106.P21.ANTN)*  
-> 🧑‍💻 Developed by Tran Gia Nghi - Honors Program - Information Security
+🚀 *A small assignment for the Basic Network Programming course (NT106.P21.ANTN)*  
+🧑‍💻 Developed by Tran Gia Nghi - Honors Program - Information Security
 
 ---
 
