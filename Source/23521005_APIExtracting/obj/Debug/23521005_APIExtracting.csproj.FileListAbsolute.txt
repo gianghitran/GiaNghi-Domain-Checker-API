@@ -1,0 +1,13 @@
+C:\Users\ASUS\Documents\Nam2_Ki2\ltmcb\LTMCB_LyThuyet\btap\API\23521005_APIExtracting\23521005_APIExtracting\obj\Debug\23521005_APIExtracting.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Nam2_Ki2\ltmcb\LTMCB_LyThuyet\btap\API\23521005_APIExtracting\23521005_APIExtracting\obj\Debug\_23521005_APIExtracting.Form1.resources
+C:\Users\ASUS\Documents\Nam2_Ki2\ltmcb\LTMCB_LyThuyet\btap\API\23521005_APIExtracting\23521005_APIExtracting\obj\Debug\_23521005_APIExtracting.Properties.Resources.resources
+C:\Users\ASUS\Documents\Nam2_Ki2\ltmcb\LTMCB_LyThuyet\btap\API\23521005_APIExtracting\23521005_APIExtracting\obj\Debug\23521005_APIExtracting.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Nam2_Ki2\ltmcb\LTMCB_LyThuyet\btap\API\23521005_APIExtracting\23521005_APIExtracting\obj\Debug\23521005_APIExtracting.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Nam2_Ki2\ltmcb\LTMCB_LyThuyet\btap\API\23521005_APIExtracting\23521005_APIExtracting\bin\Debug\23521005_APIExtracting.exe.config
+C:\Users\ASUS\Documents\Nam2_Ki2\ltmcb\LTMCB_LyThuyet\btap\API\23521005_APIExtracting\23521005_APIExtracting\bin\Debug\23521005_APIExtracting.exe
+C:\Users\ASUS\Documents\Nam2_Ki2\ltmcb\LTMCB_LyThuyet\btap\API\23521005_APIExtracting\23521005_APIExtracting\bin\Debug\23521005_APIExtracting.pdb
+C:\Users\ASUS\Documents\Nam2_Ki2\ltmcb\LTMCB_LyThuyet\btap\API\23521005_APIExtracting\23521005_APIExtracting\obj\Debug\23521005_APIExtracting.exe
+C:\Users\ASUS\Documents\Nam2_Ki2\ltmcb\LTMCB_LyThuyet\btap\API\23521005_APIExtracting\23521005_APIExtracting\obj\Debug\23521005_APIExtracting.pdb
+C:\Users\ASUS\Documents\Nam2_Ki2\ltmcb\LTMCB_LyThuyet\btap\API\23521005_APIExtracting\23521005_APIExtracting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Documents\Nam2_Ki2\ltmcb\LTMCB_LyThuyet\btap\API\23521005_APIExtracting\23521005_APIExtracting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Documents\Nam2_Ki2\ltmcb\LTMCB_LyThuyet\btap\API\23521005_APIExtracting\23521005_APIExtracting\obj\Debug\23521005.756D1858.Up2Date

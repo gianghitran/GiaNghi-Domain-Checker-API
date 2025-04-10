@@ -34,7 +34,7 @@ namespace _23521005_APIExtracting
                 RequestUri = new Uri("https://whois-api6.p.rapidapi.com/whois/api/v1/getData"),
                 Headers =
                 {
-                    { "x-rapidapi-key", "{YOUR_API_Key}" },
+                    { "x-rapidapi-key", "{YOUR_API_KEY}" },
                     { "x-rapidapi-host", "whois-api6.p.rapidapi.com" },
                 },
                 Content = new StringContent($"{{\"query\":\"{domain}\"}}", Encoding.UTF8, "application/json")
